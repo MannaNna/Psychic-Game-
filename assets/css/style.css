@@ -1,0 +1,19 @@
+#winCounter {
+    display: inline;
+}
+
+#lossCounter {
+    display: inline;
+}
+
+#guessesLeft {
+    display: inline;
+}
+
+#letterGuesses {
+    display: inline;
+}
+
+#secretLetter {
+    display: none;
+}
